@@ -17,31 +17,31 @@
     "species" : "Dwarf",
      "likes": "meat",
      "dislikes": "elves"
-    }
+    },
      {
     "name": "sirloin",
     "species" : "Dwarf",
      "likes": "meat",
      "dislikes": "elves"
-     }
+     },
   {
     "name": "round",
     "species" : "Dwarf",
      "likes": "meat",
      "dislikes": "elves"
-     }
+     },
       {
     "name": "flank",
     "species" : "Dwarf",
      "likes": "meat",
      "dislikes": "elves"
-     }
+     },
      {
     "name": "plate",
     "species" : "Dwarf",
      "likes": "meat",
      "dislikes": "elves"
-     }
+     },
      {
     "name": "brisket_shank",
     "species" : "Dwarf",
