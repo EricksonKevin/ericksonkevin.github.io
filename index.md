@@ -13,7 +13,7 @@
     "dislikes": "Saruman"
     },
   {
-    "name": "srtloin",
+    "name": "shortloin",
     "species" : "Dwarf",
      "likes": "meat",
      "dislikes": "elves"
