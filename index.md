@@ -1,9 +1,9 @@
 [
   {
     "name": "chuck",
-    "species" : "Hobbit",
-    "likes": "pipe-weed",
-    "dislikes": "maggoty bread" 
+    "species" : "chuck steak",
+    "likes": "crossrib",
+    "dislikes": "chuck-eye" 
     
   },
   {
