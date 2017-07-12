@@ -8,45 +8,45 @@
   },
   {
     "name": "rib",
-    "species" : "Wizard",
-    "likes": "tea",
-    "dislikes": "Saruman"
+    "species" : "ribeye",
+    "likes": "prime rib roast",
+    "dislikes": "rib steak"
     },
   {
     "name": "shortloin",
-    "species" : "Dwarf",
-     "likes": "meat",
-     "dislikes": "elves"
+    "species" : "T-bone",
+     "likes": "porterhouse",
+     "dislikes": "New York"
     },
      {
     "name": "sirloin",
-    "species" : "Dwarf",
-     "likes": "meat",
-     "dislikes": "elves"
+    "species" : "petite siroin",
+     "likes": "top sirloin",
+     "dislikes": "sirloin tip"
      },
   {
     "name": "round",
-    "species" : "Dwarf",
-     "likes": "meat",
-     "dislikes": "elves"
+    "species" : "round roast",
+     "likes": "eye of round",
+     "dislikes": "cube steak"
      },
       {
     "name": "flank",
-    "species" : "Dwarf",
-     "likes": "meat",
-     "dislikes": "elves"
+    "species" : "skirt steak",
+     "likes": "hanger steak",
+     "dislikes": "stir sry meat"
      },
      {
     "name": "plate",
-    "species" : "Dwarf",
-     "likes": "meat",
-     "dislikes": "elves"
+    "species" : "bone-in short ribs",
+     "likes": "braising ribs",
+     "dislikes": "brisket"
      },
      {
-    "name": "brisket_shank",
-    "species" : "Dwarf",
-     "likes": "meat",
-     "dislikes": "elves"
+    "name": "shank",
+    "species" : "osso bucco",
+     "likes": "shank steak",
+     "dislikes": "boneless shin"
      }
   
   
