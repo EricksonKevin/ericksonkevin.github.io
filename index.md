@@ -1,52 +1,52 @@
 [
   {
     "name": "chuck",
-    "species" : "chuck steak",
-    "likes": "crossrib",
-    "dislikes": "chuck-eye" 
+    "cut1" : "chuck steak",
+    "cut2": "crossrib",
+    "cut3": "chuck-eye" 
     
   },
   {
     "name": "rib",
-    "species" : "ribeye",
-    "likes": "prime rib roast",
-    "dislikes": "rib steak"
+    "cut1" : "ribeye",
+    "cut2": "prime rib roast",
+    "cut3": "rib steak"
     },
   {
     "name": "shortloin",
-    "species" : "T-bone",
-     "likes": "porterhouse",
-     "dislikes": "New York"
+    "cut1" : "T-bone",
+     "cut2": "porterhouse",
+     "cut3": "New York"
     },
      {
     "name": "sirloin",
-    "species" : "petite siroin",
-     "likes": "top sirloin",
-     "dislikes": "sirloin tip"
+    "cut1" : "petite siroin",
+     "cut2": "top sirloin",
+     "cut3": "sirloin tip"
      },
   {
     "name": "round",
-    "species" : "round roast",
-     "likes": "eye of round",
-     "dislikes": "cube steak"
+    "cut1" : "round roast",
+     "cut2": "eye of round",
+     "cut3": "cube steak"
      },
       {
     "name": "flank",
-    "species" : "skirt steak",
-     "likes": "hanger steak",
-     "dislikes": "stir sry meat"
+    "cut1" : "skirt steak",
+     "cut2": "hanger steak",
+     "cut3": "stir sry meat"
      },
      {
     "name": "plate",
-    "species" : "bone-in short ribs",
-     "likes": "braising ribs",
-     "dislikes": "brisket"
+    "cut1" : "bone-in short ribs",
+     "cut2": "braising ribs",
+     "cut3": "brisket"
      },
      {
     "name": "shank",
-    "species" : "osso bucco",
-     "likes": "shank steak",
-     "dislikes": "boneless shin"
+    "cut1" : "osso bucco",
+     "cut2": "shank steak",
+     "cut3": "boneless shin"
      }
   
   
