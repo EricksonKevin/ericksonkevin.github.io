@@ -34,7 +34,7 @@
     "name": "flank",
     "cut1" : "skirt steak",
      "cut2": "hanger steak",
-     "cut3": "stir sry meat"
+     "cut3": "stir fry meat"
      },
      {
     "name": "plate",
